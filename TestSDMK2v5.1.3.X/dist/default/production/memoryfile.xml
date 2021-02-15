@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/TestSDMK2v5.1.3.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>1436</used>
+      <free>6756</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>131316</length>
+      <used>28368</used>
+      <free>102948</free>
+    </memory>
+  </executable>
+</project>
