@@ -14,3 +14,5 @@
 - Erzeugt eine .txt Datei und schreibt "Hallo Weld!" und eine Zahl hinein
 - In einer Endlosscheife immer in der nächsten Zeile
 - Erkennung ob SD-Karte eingesteckt ist, Anzeige per LED2 
+
+Funktioniert bei FAT32 formatierten microSD-Karten, getestet mit 16GB
