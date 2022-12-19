@@ -1,4 +1,4 @@
-# Testboard-MicroSD-Karte-MK2
+# MicroSD-Karte-MK2
 
  Funktionen (Software V6.0) [F]:
 - Ab Boardversion 2.2!
